@@ -7,13 +7,21 @@ Source data not provided here (though the code to transform the data is as creat
 Variables used in the PCA:
 
 -Population for each age group (10 year bands)
+
 -Percentage of population with at least two A-levels
+
 -Median weekly salary
+
 -Average house prices as a multiple of median weekly salary
+
 -Proportion of managerial or professional occupations
+
 -Propotion of jobs paying less than the local living wage figure (according to Living Wage Foundation)
+
 -Proportion of home owners
+
 -Number of businesses 
+
 -Net change in number businesses over last year
 
 The main code for the analysis is in visualising_2019_realignment.R
